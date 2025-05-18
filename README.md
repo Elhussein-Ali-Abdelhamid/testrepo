@@ -8,8 +8,7 @@
 This repository demonstrates end-to-end data science skills: **data wrangling, analysis, visualization, and machine learning**.
 
 ## 🎯 Project Overview
-### **Title**: [Your Project Title]  
-*(Example: "Predicting SpaceX Launch Success with Machine Learning")*
+### **Title**: Predicting SpaceX Launch Success with Machine Learning 
 
 ### **Key Objectives**:
 1. **Business Understanding**: Solve a real-world problem using data science.
